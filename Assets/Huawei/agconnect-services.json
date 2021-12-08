@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"2640020000002601696",
+		"product_id":"736430079244674571",
+		"client_id":"478405336177312896",
+		"client_secret":"D3FFF175421CFECA34801F2FA2D174218BAC74BE70E477A3FA8CF63889D3F0DF",
+		"app_id":"103104391",
+		"package_name":"com.Hamysteria.HamVaders",
+		"api_key":"CgB6e3x9+KSzyvIFLFFv2SURX6c59tSohgUb59aIrrIFvjHfy15Q4r1GMIjEYBnaPxs84aA0VwBLnBT+LQLEU4aE"
+	},
+	"configuration_version":"1.0"
+}

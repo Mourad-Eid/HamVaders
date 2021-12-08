@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 741884b37a0234d86bb740e55081cd5f, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: f6971291-1676-488d-8022-c7860b0c981e
+  UnityClientID: n_SnEQugKBaihmemDfz2Gg
+  UnityClientKey: _Hluo0YNkBpbq_jCXy5_nf7hB-aZdyQR8SVKSP6xslE
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkeIaA7xNMTUAIqxl0Qed/n8bsPhCFe6803zz1NOAXI5s+jw0Gthi55+8Kxj0lSaAiUewi5GEfConjUlG5hf5xhygVaCro1GciY9DTTL1fdhfMUBcFeZGVpIJlAOxnmqX6kNQ5iWN5Lg0vaFXJ6eee28172Iz79VrZ8Q6nnXsv9aMvnAdEpoKim9luopmgGuAA+Bqd2Td/IBV4nwyhSIWdrUHlkmPRbfyKV0hbnCFMSUdFz+bcl9TqC2s6B00TB76pWLrsx3d0Ukz0UKYBQ9CEYt8V6Y3NLMvgfNczqxwmrLXP68csGwwSAYYpDhWUdUe6wiBurDIxQSAceOfLASTswIDAQAB
+  AppName: HamVaders
+  AppSlug: ec747061-bf94-4554-a876-266643ff1da2
+  AppItemId: 5f90797da8e62b001f48293f
+  Permission: 
